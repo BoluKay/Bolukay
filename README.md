@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 - 👀 I'm interested in Software Engineering & AI!
 - 🌱 I’m currently learning React, working on my portfolio and some AI projects
 - 👯 I’m looking to collaborate on innovative projects
-- 🤔 I'm actively seeking roles in software engineering.
+- 🤔 I'm actively seeking roles in Software Engineering.
 - 📫 You can reach me at my email: barntife@gmail.com
 - ⚡ Fun fact: I love going to concerts
 
