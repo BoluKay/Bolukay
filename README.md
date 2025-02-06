@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started: -->
 
-# 👋 Hi, I'm Bolu!
+- 👋 Hi, I'm Bolu!
 - 👀 I'm interested in Software Engineering & AI!
 - 🌱 I’m currently learning React, working on my portfolio and some AI projects
 - 👯 I’m looking to collaborate on innovative projects
